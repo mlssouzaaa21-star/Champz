@@ -121,7 +121,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1784575840
+        "UpdateTime": 1784576915
       },
       "Inventory": {
         "items": [
@@ -8801,12 +8801,11 @@
           {
             "_id": "6a5cf836a591f81c78fbb2aa",
             "_tpl": "67600a42b32eb5d23e0eb459",
-            "parentId": "667298e75ea6b4493c08f266",
-            "slotId": "CircleOfCultistsGrid1",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 0,
-              "y": 0,
-              "rotation": false,
+              "x": 7,
+              "y": 3,
               "r": "Horizontal"
             },
             "upd": {
@@ -8826,12 +8825,11 @@
           {
             "_id": "6a5cf836a591f81c78fbb2ac",
             "_tpl": "67a5c6068fcd9fb73f0752cf",
-            "parentId": "667298e75ea6b4493c08f266",
-            "slotId": "CircleOfCultistsGrid1",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 1,
-              "y": 0,
-              "rotation": false,
+              "x": 2,
+              "y": 7,
               "r": "Horizontal"
             },
             "upd": {
@@ -8842,12 +8840,11 @@
           {
             "_id": "6a5cf836a591f81c78fbb2ad",
             "_tpl": "67a5c6068fcd9fb73f0752cf",
-            "parentId": "667298e75ea6b4493c08f266",
-            "slotId": "CircleOfCultistsGrid1",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 3,
-              "y": 0,
-              "rotation": false,
+              "x": 8,
+              "y": 3,
               "r": "Horizontal"
             },
             "upd": {
@@ -8858,12 +8855,11 @@
           {
             "_id": "6a5cf836a591f81c78fbb2ae",
             "_tpl": "67600a42b32eb5d23e0eb459",
-            "parentId": "667298e75ea6b4493c08f266",
-            "slotId": "CircleOfCultistsGrid1",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 5,
-              "y": 0,
-              "rotation": false,
+              "x": 6,
+              "y": 3,
               "r": "Horizontal"
             },
             "upd": {
@@ -8883,12 +8879,11 @@
           {
             "_id": "6a5cf836a591f81c78fbb2b3",
             "_tpl": "68a9be93f260f4e1c2038686",
-            "parentId": "667298e75ea6b4493c08f266",
-            "slotId": "CircleOfCultistsGrid1",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
               "x": 0,
-              "y": 2,
-              "rotation": false,
+              "y": 3,
               "r": "Horizontal"
             },
             "upd": {
@@ -10674,10 +10669,10 @@
             "Progress": 287.5
           },
           {
-            "PointsEarnedDuringSession": 9,
-            "LastAccess": 1784575856,
+            "PointsEarnedDuringSession": 22.5,
+            "LastAccess": 1784576936,
             "Id": "HideoutManagement",
-            "Progress": 4946.67725
+            "Progress": 4960.17725
           }
         ],
         "Mastering": [
@@ -15250,12 +15245,6 @@
           "value": 1,
           "sourceId": "5979f9ba86f7740f6c3fe9f2"
         },
-        "6a5bc0c787ca4f56c43cf21d": {
-          "id": "6a5bc0c787ca4f56c43cf21d",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "6a5bc0c787ca4f56c43cf218"
-        },
         "5b0e766b86f7746bfa618964": {
           "id": "5b0e766b86f7746bfa618964",
           "type": "CounterCreator",
@@ -15765,24 +15754,6 @@
           "type": "CounterCreator",
           "value": 2,
           "sourceId": "5a27b75b86f7742e97191958"
-        },
-        "6a5bec0fd2f9ba55cc7b2f68": {
-          "id": "6a5bec0fd2f9ba55cc7b2f68",
-          "type": "CounterCreator",
-          "value": 12,
-          "sourceId": "6a5bec0fd2f9ba55cc7b2f64"
-        },
-        "6a5bec0fd2f9ba55cc7b2f73": {
-          "id": "6a5bec0fd2f9ba55cc7b2f73",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "6a5bec0fd2f9ba55cc7b2f71"
-        },
-        "6a5bec0fd2f9ba55cc7b2f81": {
-          "id": "6a5bec0fd2f9ba55cc7b2f81",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "6a5bec0fd2f9ba55cc7b2f7c"
         },
         "64ee9df4496db64f9b7a4433": {
           "id": "64ee9df4496db64f9b7a4433",
@@ -16322,76 +16293,7 @@
         }
       ],
       "Hideout": {
-        "Production": {
-          "66827062405f392b203a44cf": {
-            "Products": [],
-            "Progress": 0,
-            "inProgress": false,
-            "StartTimestamp": 1784477750,
-            "SkipTime": 0,
-            "ProductionTime": 4320,
-            "GivenItemsInStart": [
-              {
-                "_id": "6a5b92881228b84964f487b4",
-                "_tpl": "62963c18dbc8ab5f0d382d0b",
-                "parentId": "667298e75ea6b4493c08f266",
-                "slotId": "CircleOfCultistsGrid1",
-                "location": {
-                  "x": 2,
-                  "y": 0,
-                  "r": "Horizontal"
-                },
-                "upd": {
-                  "Repairable": {
-                    "Durability": 55,
-                    "MaxDurability": 55
-                  },
-                  "SpawnedInSession": true
-                }
-              },
-              {
-                "_id": "6a5c0df9c3237d5b6c918646",
-                "_tpl": "66572c82ad599021091c6118",
-                "parentId": "667298e75ea6b4493c08f266",
-                "slotId": "CircleOfCultistsGrid1",
-                "location": {
-                  "x": 0,
-                  "y": 0,
-                  "r": "Horizontal"
-                },
-                "upd": {
-                  "SpawnedInSession": true,
-                  "Resource": {
-                    "Value": 0
-                  }
-                }
-              },
-              {
-                "_id": "6a5cec9aa591f81c78f930c4",
-                "_tpl": "655c669103999d3c810c025b",
-                "parentId": "667298e75ea6b4493c08f266",
-                "slotId": "CircleOfCultistsGrid1",
-                "location": {
-                  "x": 1,
-                  "y": 0,
-                  "r": "Horizontal"
-                },
-                "upd": {
-                  "SpawnedInSession": true,
-                  "Resource": {
-                    "Value": 0
-                  }
-                }
-              }
-            ],
-            "Interrupted": false,
-            "AvailableForFinish": true,
-            "needFuelForAllProductionTime": false,
-            "NeedFuelForAllProductionTime": false,
-            "sptIsCultistCircle": true,
-            "RecipeId": "66827062405f392b203a44cf"
-          }
-        },
+        "Production": {},
         "Areas": [
           {
             "type": 3,
@@ -16452,8 +16354,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 15.6937,
-                        "UnitsConsumed": 34.3063
+                        "Value": 14.8397,
+                        "UnitsConsumed": 5.1603
                       }
                     }
                   }
@@ -16913,7 +16815,7 @@
         "HideoutCounters": null,
         "Seed": "dc5f1a06e913d9ec0ad53099291d1509",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784575856,
+        "sptUpdateLastRunTimestamp": 1784577568,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -21143,7 +21045,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1784479874,
+        "nextResetTime": 1784652674,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -22512,10 +22414,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a5a88253fea4a24ac4b7ce7",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -22538,10 +22437,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a5a882b3fea4a24ac4b7cf8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -22575,10 +22471,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a5a88363fea4a24ac4b7d08",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -22590,10 +22483,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a5a883e3fea4a24ac4b8a9a",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -23491,10 +23381,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a5a88413fea4a24ac4b8aa4",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -24421,10 +24308,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "64b996c9d0de4697180359b6",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
