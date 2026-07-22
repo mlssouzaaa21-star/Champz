@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 74,
+          "Current": 92,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 39,
+          "Current": 59,
           "Maximum": 110
         },
         "Temperature": {
@@ -120,7 +120,7 @@
             }
           }
         },
-        "UpdateTime": 1784753004
+        "UpdateTime": 1784753476
       },
       "Inventory": {
         "items": [
@@ -13203,6 +13203,20 @@
             "upd": {
               "SpawnedInSession": true
             }
+          },
+          {
+            "_id": "6a6122ec2750605100485b88",
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 5,
+              "y": 12,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 4705548
+            }
           }
         ],
         "equipment": "6a593473f4ec383a40298f18",
@@ -18555,14 +18569,14 @@
         "6615211ca031cbb5570e346d": true,
         "5da46e3886f774653b7a83fe": true,
         "689b404db49f27df1c0873f6": true,
-        "68f25da3b84c6e1f8a09cffb": false,
-        "68f25eba19a2b503d70dc28f": false,
-        "63a71e781031ac76fe773c7d": false,
-        "5a0eed4386f77405112912aa": false,
-        "5d08d21286f774736e7c94c3": false,
-        "5a0f006986f7741ffd2fe484": false,
-        "63a898a328e385334e0640a5": false,
-        "5f0596629e22f464da6bbdd9": false
+        "68f25da3b84c6e1f8a09cffb": true,
+        "68f25eba19a2b503d70dc28f": true,
+        "63a71e781031ac76fe773c7d": true,
+        "5a0eed4386f77405112912aa": true,
+        "5d08d21286f774736e7c94c3": true,
+        "5a0f006986f7741ffd2fe484": true,
+        "63a898a328e385334e0640a5": true,
+        "5f0596629e22f464da6bbdd9": true
       },
       "TaskConditionCounters": {
         "65141df0e69594cf853a40b9": {
@@ -21562,9 +21576,9 @@
                 }
               }
             ],
-            "Progress": 3153,
+            "Progress": 3773,
             "inProgress": true,
-            "StartTimestamp": 1784753307,
+            "StartTimestamp": 1784753516,
             "SkipTime": 0,
             "ProductionTime": 7500,
             "GivenItemsInStart": [],
@@ -21575,7 +21589,7 @@
           },
           "6271093e621b0a76055cd61e": {
             "Products": [],
-            "Progress": 6236,
+            "Progress": 6445,
             "inProgress": true,
             "StartTimestamp": 1784747071,
             "SkipTime": 0,
@@ -21684,8 +21698,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 88.0487,
-                        "UnitsConsumed": 1.9512
+                        "Value": 87.9454,
+                        "UnitsConsumed": 2.0545
                       }
                     }
                   }
@@ -22413,7 +22427,7 @@
         "HideoutCounters": null,
         "Seed": "dc5f1a06e913d9ec0ad53099291d1509",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784753307,
+        "sptUpdateLastRunTimestamp": 1784753516,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -34069,8 +34083,8 @@
       "_id": "5c0647fdd443bc2504c2d371"
     },
     "5ac3b934156ae10c4430e83c": {
-      "attachmentsNew": 18,
-      "new": 28,
+      "attachmentsNew": 0,
+      "new": 0,
       "type": 2,
       "pinned": true,
       "messages": [
@@ -37190,21 +37204,11 @@
           "type": 13,
           "dt": 1784750828,
           "text": "Your Morphine injector 1 items were bought by Kiki.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a6122ec2750605100485b87",
-            "data": [
-              {
-                "_id": "6a6122ec2750605100485b88",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a6122ec2750605100485b87",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 33333
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37214,21 +37218,11 @@
           "type": 13,
           "dt": 1784750838,
           "text": "Your Morphine injector 3 items were bought by Spock.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a6122f627506051004869e9",
-            "data": [
-              {
-                "_id": "6a6122f627506051004869ea",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a6122f627506051004869e9",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 99999
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37238,21 +37232,11 @@
           "type": 13,
           "dt": 1784753126,
           "text": "Your TerraGroup Labs keycard (Violet) 1 items were bought by svbtext.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612be627506051004db3c9",
-            "data": [
-              {
-                "_id": "6a612be627506051004db3ca",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612be627506051004db3c9",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 753333
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37262,21 +37246,11 @@
           "type": 13,
           "dt": 1784753146,
           "text": "Your F-1 hand grenade (Reduced delay) 1 items were bought by [666]Silent.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612bfa27506051004db62a",
-            "data": [
-              {
-                "_id": "6a612bfa27506051004db62b",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612bfa27506051004db62a",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 280000
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37286,21 +37260,11 @@
           "type": 13,
           "dt": 1784753156,
           "text": "Your TerraGroup Labs keycard (Violet) 1 items were bought by Capataina.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612c0427506051004db62f",
-            "data": [
-              {
-                "_id": "6a612c0427506051004db630",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612c0427506051004db62f",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 753333
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37310,21 +37274,11 @@
           "type": 13,
           "dt": 1784753176,
           "text": "Your Military corrugated tube 1 items were bought by RagingBeardo.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612c1827506051004db635",
-            "data": [
-              {
-                "_id": "6a612c1827506051004db636",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612c1827506051004db635",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 91222
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37334,21 +37288,11 @@
           "type": 13,
           "dt": 1784753176,
           "text": "Your Can of thermite 1 items were bought by Ratthew.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612c1827506051004db639",
-            "data": [
-              {
-                "_id": "6a612c1827506051004db63a",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612c1827506051004db639",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 113333
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37358,21 +37302,11 @@
           "type": 13,
           "dt": 1784753197,
           "text": "Your TerraGroup Labs keycard (Violet) 1 items were bought by KittehKun.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612c2d27506051004dc4af",
-            "data": [
-              {
-                "_id": "6a612c2d27506051004dc4b0",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612c2d27506051004dc4af",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 753333
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37382,21 +37316,11 @@
           "type": 13,
           "dt": 1784753207,
           "text": "Your TerraGroup Labs keycard (Violet) 1 items were bought by jonkler.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612c3727506051004dc4b4",
-            "data": [
-              {
-                "_id": "6a612c3727506051004dc4b5",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612c3727506051004dc4b4",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 753333
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37406,21 +37330,11 @@
           "type": 13,
           "dt": 1784753227,
           "text": "Your Bulbex cable cutter 1 items were bought by Glukhar_111.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612c4b27506051004dc4ba",
-            "data": [
-              {
-                "_id": "6a612c4b27506051004dc4bb",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612c4b27506051004dc4ba",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 134444
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37430,21 +37344,11 @@
           "type": 13,
           "dt": 1784753227,
           "text": "Your Pack of sugar 1 items were bought by TeejayMerks.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612c4b27506051004dc4be",
-            "data": [
-              {
-                "_id": "6a612c4b27506051004dc4bf",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612c4b27506051004dc4be",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 108444
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37454,21 +37358,11 @@
           "type": 13,
           "dt": 1784753237,
           "text": "Your Metal spare parts 1 items were bought by svbtext.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612c5527506051004dc4c3",
-            "data": [
-              {
-                "_id": "6a612c5527506051004dc4c4",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612c5527506051004dc4c3",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 86666
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37478,21 +37372,11 @@
           "type": 13,
           "dt": 1784753237,
           "text": "Your Pack of sugar 1 items were bought by Corty.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612c5527506051004dc4c7",
-            "data": [
-              {
-                "_id": "6a612c5527506051004dc4c8",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612c5527506051004dc4c7",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 108444
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37502,21 +37386,11 @@
           "type": 13,
           "dt": 1784753247,
           "text": "Your Can of thermite 1 items were bought by saintdeer.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612c5f27506051004dc4cd",
-            "data": [
-              {
-                "_id": "6a612c5f27506051004dc4ce",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612c5f27506051004dc4cd",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 113333
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37526,21 +37400,11 @@
           "type": 13,
           "dt": 1784753247,
           "text": "Your Military gyrotachometer 1 items were bought by Trainfriend.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612c5f27506051004dc4d1",
-            "data": [
-              {
-                "_id": "6a612c5f27506051004dc4d2",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612c5f27506051004dc4d1",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 167777
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37550,21 +37414,11 @@
           "type": 13,
           "dt": 1784753247,
           "text": "Your Pack of sugar 1 items were bought by floofyyq.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612c5f27506051004dc4d5",
-            "data": [
-              {
-                "_id": "6a612c5f27506051004dc4d6",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612c5f27506051004dc4d5",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 108444
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37574,21 +37428,11 @@
           "type": 13,
           "dt": 1784753257,
           "text": "Your Ratchet wrench 1 items were bought by Choccy.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612c6927506051004dd266",
-            "data": [
-              {
-                "_id": "6a612c6927506051004dd267",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612c6927506051004dd266",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 154444
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -37598,21 +37442,11 @@
           "type": 13,
           "dt": 1784753267,
           "text": "Your Military corrugated tube 1 items were bought by DocYen.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a612c7327506051004dd26b",
-            "data": [
-              {
-                "_id": "6a612c7327506051004dd26c",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a612c7327506051004dd26b",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 92333
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         }
