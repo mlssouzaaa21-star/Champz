@@ -120,7 +120,7 @@
             }
           }
         },
-        "UpdateTime": 1784839003
+        "UpdateTime": 1784839511
       },
       "Inventory": {
         "items": [
@@ -16114,12 +16114,12 @@
           {
             "_id": "6a624fcf7ded138678d54e8d",
             "_tpl": "5addccf45acfc400185c2989",
-            "parentId": "6a62219f12a37e5eec2beec5",
-            "slotId": "main",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
               "x": 2,
-              "y": 7,
-              "r": "Vertical"
+              "y": 58,
+              "r": "Horizontal"
             },
             "upd": {
               "SpawnedInSession": true
@@ -16128,11 +16128,11 @@
           {
             "_id": "6a624fcf7ded138678d54e85",
             "_tpl": "66b5f6a28ca68c6461709ed8",
-            "parentId": "6a62219f12a37e5eec2beec5",
-            "slotId": "main",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 4,
-              "y": 7,
+              "x": 0,
+              "y": 59,
               "r": "Horizontal"
             },
             "upd": {
@@ -16405,11 +16405,11 @@
           {
             "_id": "6a624cba7ded138678d4686f",
             "_tpl": "5c878e9d2e2216000f201903",
-            "parentId": "6a62219f12a37e5eec2beec5",
-            "slotId": "main",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 4,
-              "y": 3,
+              "x": 3,
+              "y": 57,
               "r": "Horizontal"
             },
             "upd": {
@@ -24569,12 +24569,6 @@
           "value": 0,
           "sourceId": "683421515619c8e2a9031511"
         },
-        "673f5d6fdd6ed700c703afdc": {
-          "id": "5d5589c1f934db045e6c5492",
-          "type": "CounterCrafting",
-          "value": 900,
-          "sourceId": "673f5d6fdd6ed700c703afdc"
-        },
         "5a68770f86f774747d4b0d8b": {
           "id": "5a68770f86f774747d4b0d8b",
           "type": "CounterCreator",
@@ -25103,10 +25097,18 @@
       "Hideout": {
         "Production": {
           "5d5c205bd582a50d042a3c0e": {
-            "Products": [],
-            "Progress": 7382,
+            "Products": [
+              {
+                "_id": "6a627d60c9705a6b04b7b155",
+                "_tpl": "59faff1d86f7746c51718c9c",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              }
+            ],
+            "Progress": 1050,
             "inProgress": true,
-            "StartTimestamp": 1784839094,
+            "StartTimestamp": 1784839550,
             "SkipTime": 0,
             "ProductionTime": 7500,
             "GivenItemsInStart": [],
@@ -25117,7 +25119,7 @@
           },
           "5d5589c1f934db045e6c5492": {
             "Products": [],
-            "Progress": 51,
+            "Progress": 507,
             "inProgress": true,
             "StartTimestamp": 1784839050,
             "SkipTime": 0,
@@ -25191,8 +25193,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 4.2297,
-                        "UnitsConsumed": 5.7703
+                        "Value": 3.9845,
+                        "UnitsConsumed": 6.0155
                       }
                     }
                   }
@@ -25293,8 +25295,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 93.823,
-                        "UnitsConsumed": 6.177
+                        "Value": 92.607,
+                        "UnitsConsumed": 7.393
                       }
                     }
                   }
@@ -25431,8 +25433,8 @@
                     "upd": {
                       "StackObjectsCount": 1,
                       "Resource": {
-                        "Value": 26.1836,
-                        "UnitsConsumed": 3.8164
+                        "Value": 24.4286,
+                        "UnitsConsumed": 5.5714
                       }
                     }
                   }
@@ -25971,7 +25973,7 @@
         "HideoutCounters": null,
         "Seed": "613bf24bc4c494878ede92c6e58741bc",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784839094,
+        "sptUpdateLastRunTimestamp": 1784839550,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6758443ff94a97cbbe096f18",
