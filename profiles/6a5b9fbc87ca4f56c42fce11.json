@@ -20,7 +20,7 @@
         "LowerNickname": "pieri",
         "Side": "Usec",
         "Level": 29,
-        "Experience": 933638,
+        "Experience": 933648,
         "RegistrationDate": 1784393309,
         "GameVersion": "unheard_edition",
         "AccountType": 0,
@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 76,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 71,
+          "Current": 100,
           "Maximum": 100
         },
         "Temperature": {
@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1784774666
+        "UpdateTime": 1784802272
       },
       "Inventory": {
         "items": [
@@ -4041,13 +4041,8 @@
           {
             "_id": "6a5c163bb64d1a5784a0b5c1",
             "_tpl": "557ff21e4bdc2d89578b4586",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 4,
-              "y": 36,
-              "r": "Horizontal"
-            }
+            "parentId": "6a5bae5d87ca4f56c435c97e",
+            "slotId": "Eyewear"
           },
           {
             "_id": "6a5c178cb64d1a5784a0b847",
@@ -9804,7 +9799,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 785466
+              "StackObjectsCount": 739134
             }
           },
           {
@@ -11234,7 +11229,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 154
+              "StackObjectsCount": 152
             }
           },
           {
@@ -11981,7 +11976,7 @@
             "slotId": "cartridges",
             "location": 0,
             "upd": {
-              "StackObjectsCount": 18
+              "StackObjectsCount": 20
             }
           },
           {
@@ -12007,6 +12002,61 @@
             "upd": {
               "StackObjectsCount": 1,
               "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a61ea22db3d094414a3a868",
+            "_tpl": "557ff21e4bdc2d89578b4586",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 8,
+              "y": 17,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "6a61eb6b807bf28b9cd20711",
+            "_tpl": "5e023e53d4353e3302577c4c",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 4,
+              "y": 36,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 40
+            }
+          },
+          {
+            "_id": "6a61eb6b807bf28b9cd20712",
+            "_tpl": "5e023e53d4353e3302577c4c",
+            "parentId": "6a5bae5d87ca4f56c435c997",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 1,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 40
+            }
+          },
+          {
+            "_id": "6a61eb6b807bf28b9cd20713",
+            "_tpl": "5e023e53d4353e3302577c4c",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 9,
+              "y": 37,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 37
             }
           }
         ],
@@ -12089,10 +12139,10 @@
             "Progress": 5100
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 1784601149,
+            "PointsEarnedDuringSession": 0.5,
+            "LastAccess": 1784802143,
             "Id": "Intellect",
-            "Progress": 37.6876221
+            "Progress": 38.1876221
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -15639,7 +15689,8 @@
         "62a09e974f842e1bd12da3f0": false,
         "62a09e73af34e73a266d932a": false,
         "68f26124b84c6e1f8a09cfff": false,
-        "5bc9c049d4351e44f824d360": false
+        "5bc9c049d4351e44f824d360": false,
+        "66d9f3047b82b9a9aa055d81": false
       },
       "TaskConditionCounters": {
         "65141df0e69594cf853a40b9": {
@@ -18026,7 +18077,7 @@
         "HideoutCounters": null,
         "Seed": "679e9b8d624f85fc2735446024ae2a03",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784776077,
+        "sptUpdateLastRunTimestamp": 1784803306,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -21307,7 +21358,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1774630274,
+        "nextResetTime": 1775062274,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -21325,7 +21376,7 @@
         "LowerNickname": "",
         "Side": "Savage",
         "Level": 1,
-        "Experience": 5850,
+        "Experience": 5860,
         "RegistrationDate": 1784393309,
         "GameVersion": "unheard_edition",
         "AccountType": 0,
@@ -22117,7 +22168,8 @@
         "62a09e974f842e1bd12da3f0": false,
         "62a09e73af34e73a266d932a": false,
         "68f26124b84c6e1f8a09cfff": false,
-        "5bc9c049d4351e44f824d360": false
+        "5bc9c049d4351e44f824d360": false,
+        "66d9f3047b82b9a9aa055d81": false
       },
       "TaskConditionCounters": {},
       "InsuredItems": [],
@@ -23413,10 +23465,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a5c163bb64d1a5784a0b5bc",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 360000,
           "systemData": {
             "date": "19.07.2026",
@@ -23909,6 +23958,26 @@
             "data": []
           },
           "maxStorageTime": 259200
+        },
+        {
+          "_id": "6a61ea22db3d094414a3a867",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 8,
+          "dt": 1784801826,
+          "templateId": "58fe0e4586f774728248ca13 1",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "6a61ea22db3d094414a3a866",
+            "data": []
+          },
+          "maxStorageTime": 345600,
+          "systemData": {
+            "date": "22.07.2026",
+            "time": "01:00",
+            "location": "bigmap"
+          }
         }
       ],
       "_id": "54cb50c76803fa8b248b4571"
@@ -24637,40 +24706,12 @@
     "extraRepeatableQuests": {}
   },
   "inraid": {},
-  "insurance": [
-    {
-      "scheduledTime": 1784781494,
-      "traderId": "54cb50c76803fa8b248b4571",
-      "maxStorageTime": 345600,
-      "systemData": {
-        "date": "22.07.2026",
-        "time": "01:00",
-        "location": "bigmap"
-      },
-      "messageType": 8,
-      "messageTemplateId": "58fe0e4586f774728248ca13 1",
-      "items": [
-        {
-          "_id": "6a5bae5d87ca4f56c435ca24",
-          "_tpl": "557ff21e4bdc2d89578b4586"
-        },
-        {
-          "_id": "6a5ecfa63c19234fa8b2ee15",
-          "_tpl": "656e0436d44a1bb4220303a0"
-        }
-      ]
-    }
-  ],
+  "insurance": [],
   "btrDelivery": [],
   "traderPurchases": {
     "5a7c2eca46aef81a7ca2145d": {},
     "5935c25fb3acc3127c3d8cd9": {},
-    "54cb50c76803fa8b248b4571": {
-      "686e34676c2a18ed6b0eaeca": {
-        "count": 1,
-        "purchaseTimestamp": 1784765197
-      }
-    },
+    "54cb50c76803fa8b248b4571": {},
     "58330581ace78e27b8b10cee": {},
     "5c0647fdd443bc2504c2d371": {},
     "6617beeaa9cfa777ca915b7c": {},
