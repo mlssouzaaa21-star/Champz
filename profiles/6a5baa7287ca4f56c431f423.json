@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1784856913
+        "UpdateTime": 1784926799
       },
       "Inventory": {
         "items": [
@@ -6358,10 +6358,10 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 1784850878,
+            "PointsEarnedDuringSession": 1.6,
+            "LastAccess": 1784926800,
             "Id": "HideoutManagement",
-            "Progress": 1342.5
+            "Progress": 1344.1
           }
         ],
         "Mastering": [
@@ -9998,7 +9998,7 @@
           {
             "type": 4,
             "level": 1,
-            "active": true,
+            "active": false,
             "passiveBonusesEnabled": true,
             "completeTime": 0,
             "constructing": false,
@@ -10014,8 +10014,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 1.9856,
-                        "UnitsConsumed": 8.0144
+                        "Value": 0,
+                        "UnitsConsumed": 0
                       }
                     }
                   }
@@ -10030,7 +10030,11 @@
                     "_tpl": "5d1b371186f774253763a656",
                     "upd": {
                       "StackObjectsCount": 1,
-                      "SpawnedInSession": true
+                      "SpawnedInSession": true,
+                      "Resource": {
+                        "Value": 0,
+                        "UnitsConsumed": 0
+                      }
                     }
                   }
                 ]
@@ -10474,7 +10478,7 @@
         "HideoutCounters": null,
         "Seed": "7c389b8e96263af62003bed585e2c363",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784861907,
+        "sptUpdateLastRunTimestamp": 1784926930,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
