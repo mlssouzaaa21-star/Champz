@@ -1,0 +1,30 @@
+{
+  "info": {
+    "id": "6a62b9c3a67a5542c8fccd1b",
+    "scavId": "6a62b9c3a67a5542c8fccd1c",
+    "aid": 1354370,
+    "username": "Lopezer4",
+    "wipe": true,
+    "edition": "Unheard"
+  },
+  "characters": {
+    "pmc": {
+      "savage": null,
+      "Encyclopedia": null,
+      "Hideout": null,
+      "WishList": []
+    },
+    "scav": {
+      "savage": null,
+      "Encyclopedia": null,
+      "Hideout": null,
+      "WishList": []
+    }
+  },
+  "dialogues": {},
+  "inraid": {
+    "location": "none",
+    "character": "none"
+  },
+  "insurance": []
+}
