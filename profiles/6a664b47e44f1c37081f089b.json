@@ -20,7 +20,7 @@
         "LowerNickname": "dola",
         "Side": "Usec",
         "Level": 1,
-        "Experience": 0,
+        "Experience": 3000,
         "RegistrationDate": 1785088925,
         "GameVersion": "unheard_edition",
         "AccountType": 0,
@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1785088925
+        "UpdateTime": 1785089932
       },
       "Inventory": {
         "items": [
@@ -1301,21 +1301,6 @@
             }
           },
           {
-            "_id": "6a664b9de44f1c37081f0912",
-            "_tpl": "5696686a4bdc2da3298b456a",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 3,
-              "y": 2,
-              "r": 0,
-              "isSearched": true
-            },
-            "upd": {
-              "StackObjectsCount": 1000
-            }
-          },
-          {
             "_id": "6a664b9de44f1c37081f0913",
             "_tpl": "64b7bbb74b75259c590fa897",
             "parentId": "664115f68b8ae85875060b39",
@@ -1445,36 +1430,6 @@
             }
           },
           {
-            "_id": "6a664b9de44f1c37081f091d",
-            "_tpl": "5449016a4bdc2d6f028b456f",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 3,
-              "y": 1,
-              "r": 0,
-              "isSearched": true
-            },
-            "upd": {
-              "StackObjectsCount": 500000
-            }
-          },
-          {
-            "_id": "6a664b9de44f1c37081f091e",
-            "_tpl": "5449016a4bdc2d6f028b456f",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 5,
-              "y": 1,
-              "r": 0,
-              "isSearched": true
-            },
-            "upd": {
-              "StackObjectsCount": 500000
-            }
-          },
-          {
             "_id": "6a664b9de44f1c37081f091f",
             "_tpl": "55d4887d4bdc2d962f8b4570",
             "parentId": "664115f68b8ae85875060b39",
@@ -1505,21 +1460,6 @@
               "y": 48,
               "r": 0,
               "isSearched": true
-            }
-          },
-          {
-            "_id": "6a664b9de44f1c37081f0922",
-            "_tpl": "569668774bdc2da2298b4568",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 4,
-              "y": 2,
-              "r": 0,
-              "isSearched": true
-            },
-            "upd": {
-              "StackObjectsCount": 500
             }
           },
           {
@@ -2044,10 +1984,9 @@
             "parentId": "664115f68b8ae85875060b39",
             "slotId": "hideout",
             "location": {
-              "x": 0,
-              "y": 51,
-              "r": 0,
-              "isSearched": true
+              "x": 6,
+              "y": 48,
+              "r": "Vertical"
             }
           },
           {
@@ -4274,10 +4213,10 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 0,
+            "PointsEarnedDuringSession": 1.5,
+            "LastAccess": 1785089972,
             "Id": "Intellect",
-            "Progress": 0
+            "Progress": 1.5
           },
           {
             "PointsEarnedDuringSession": 300,
@@ -4867,7 +4806,10 @@
         "65e080be269cbd5c5005e529": false,
         "6602bcf19cc643f44a04274b": false,
         "660312cc4d6cdfa6f500c703": false,
-        "665ee77ccf2d642e98220bca": true
+        "665ee77ccf2d642e98220bca": true,
+        "66bc98a01a47be227a5e956e": false,
+        "5d80c60f86f77440373c4ece": false,
+        "68f25faa22c8979ee308f4da": false
       },
       "TaskConditionCounters": {},
       "InsuredItems": [],
@@ -5367,7 +5309,7 @@
         "HideoutCounters": null,
         "Seed": "a7f4671e5462276e62a79d3863921c91",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1785088946,
+        "sptUpdateLastRunTimestamp": 1785090041,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -5563,7 +5505,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1717779074,
+        "nextResetTime": 1718556674,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -5581,7 +5523,7 @@
         "LowerNickname": "",
         "Side": "Savage",
         "Level": 1,
-        "Experience": 0,
+        "Experience": 3000,
         "RegistrationDate": 1785088925,
         "GameVersion": "unheard_edition",
         "AccountType": 0,
@@ -6196,7 +6138,10 @@
         "65e080be269cbd5c5005e529": false,
         "6602bcf19cc643f44a04274b": false,
         "660312cc4d6cdfa6f500c703": false,
-        "665ee77ccf2d642e98220bca": true
+        "665ee77ccf2d642e98220bca": true,
+        "66bc98a01a47be227a5e956e": false,
+        "5d80c60f86f77440373c4ece": false,
+        "68f25faa22c8979ee308f4da": false
       },
       "TaskConditionCounters": {},
       "InsuredItems": [],
@@ -6321,11 +6266,335 @@
     "equipmentBuilds": [],
     "magazineBuilds": []
   },
-  "dialogues": {},
+  "dialogues": {
+    "59e7125688a45068a6249071": {
+      "attachmentsNew": 0,
+      "new": 0,
+      "type": 7,
+      "pinned": false,
+      "messages": [
+        {
+          "_id": "6a664dfe4c26cd5278f298be",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785089534,
+          "text": "You have received a gift from zRedDragon",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "664115f68b8ae85875060b39",
+            "data": []
+          },
+          "maxStorageTime": 604800
+        },
+        {
+          "_id": "6a664e014c26cd5278f298ce",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785089537,
+          "text": "You have received a gift from zRedDragon",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "664115f68b8ae85875060b39",
+            "data": []
+          },
+          "maxStorageTime": 604800
+        },
+        {
+          "_id": "6a664e044c26cd5278f299b8",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785089540,
+          "text": "You have received a gift from zRedDragon",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "664115f68b8ae85875060b39",
+            "data": []
+          },
+          "maxStorageTime": 604800
+        },
+        {
+          "_id": "6a664e064c26cd5278f29bac",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785089542,
+          "text": "You have received a gift from zRedDragon",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "664115f68b8ae85875060b39",
+            "data": []
+          },
+          "maxStorageTime": 604800
+        },
+        {
+          "_id": "6a664e084c26cd5278f29c37",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785089544,
+          "text": "You have received a gift from zRedDragon",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "664115f68b8ae85875060b39",
+            "data": []
+          },
+          "maxStorageTime": 604800
+        },
+        {
+          "_id": "6a664e0d4c26cd5278f29ca4",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785089549,
+          "text": "You have received a gift from zRedDragon",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "664115f68b8ae85875060b39",
+            "data": []
+          },
+          "maxStorageTime": 604800
+        },
+        {
+          "_id": "6a664e194c26cd5278f29ca7",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785089561,
+          "text": "You have received a gift from zRedDragon",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "664115f68b8ae85875060b39",
+            "data": []
+          },
+          "maxStorageTime": 604800
+        },
+        {
+          "_id": "6a664e1f4c26cd5278f29cc8",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785089567,
+          "text": "You have received a gift from zRedDragon",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "664115f68b8ae85875060b39",
+            "data": []
+          },
+          "maxStorageTime": 604800
+        },
+        {
+          "_id": "6a664ef54c26cd5278f2bb97",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785089781,
+          "text": "You have received a gift from zRedDragon",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "664115f68b8ae85875060b39",
+            "data": []
+          },
+          "maxStorageTime": 604800
+        },
+        {
+          "_id": "6a664ef84c26cd5278f2bb9a",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785089784,
+          "text": "You have received a gift from zRedDragon",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "664115f68b8ae85875060b39",
+            "data": []
+          },
+          "maxStorageTime": 604800
+        },
+        {
+          "_id": "6a664efc4c26cd5278f2bbc0",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785089788,
+          "text": "You have received a gift from zRedDragon",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "664115f68b8ae85875060b39",
+            "data": []
+          },
+          "maxStorageTime": 604800
+        },
+        {
+          "_id": "6a664efe4c26cd5278f2bbc3",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785089790,
+          "text": "You have received a gift from zRedDragon",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "664115f68b8ae85875060b39",
+            "data": []
+          },
+          "maxStorageTime": 604800
+        },
+        {
+          "_id": "6a664f0e4c26cd5278f2bbc6",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785089806,
+          "text": "You have received a gift from zRedDragon",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "664115f68b8ae85875060b39",
+            "data": []
+          },
+          "maxStorageTime": 604800
+        }
+      ],
+      "_id": "59e7125688a45068a6249071"
+    },
+    "5a7c2eca46aef81a7ca2145d": {
+      "attachmentsNew": 1,
+      "new": 1,
+      "type": 2,
+      "pinned": false,
+      "messages": [
+        {
+          "_id": "6a664f8ce2b2d11b1c4be9fa",
+          "uid": "5a7c2eca46aef81a7ca2145d",
+          "type": 13,
+          "dt": 1785089932,
+          "templateId": "6776e324810eb26b880fb4a5 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "678d4d90fc70718b8c4067ad",
+            "data": [
+              {
+                "_id": "6a664f8ce2b2d11b1c4be9fb",
+                "_tpl": "590c2c9c86f774245b1f03f2",
+                "parentId": "678d4d90fc70718b8c4067ad",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 259200
+        }
+      ],
+      "_id": "5a7c2eca46aef81a7ca2145d"
+    }
+  },
   "spt": {
     "version": "4.0.13 (40087)",
-    "mods": [],
-    "receivedGifts": [],
+    "mods": [
+      {
+        "name": "Acid's Bot Placement System",
+        "version": "2.0.19",
+        "author": "acidphantasm",
+        "dateAdded": 1785089932
+      },
+      {
+        "name": "Ref Friendly Quests",
+        "version": "2.0.3",
+        "author": "acidphantasm",
+        "dateAdded": 1785089932
+      },
+      {
+        "name": "Content Backport - Prestiges",
+        "version": "1.0.3",
+        "author": "ArchangelWTF",
+        "dateAdded": 1785089932,
+        "url": "https://github.com/ArchangelWTF/ContentBackportPrestiges"
+      },
+      {
+        "name": "Lots of Loot Redux",
+        "version": "4.1.2",
+        "author": "ArchangelWTF",
+        "dateAdded": 1785089932,
+        "url": "https://github.com/ArchangelWTF/LotsofLoot"
+      },
+      {
+        "name": "Show Me The Money",
+        "version": "2.7.0",
+        "author": "SwiftXP",
+        "dateAdded": 1785089932,
+        "url": "https://github.com/swiftxp-hub/spt-show-me-the-money"
+      },
+      {
+        "name": "Live Flea Prices",
+        "version": "2.0.1",
+        "author": "DrakiaXYZ",
+        "dateAdded": 1785089932
+      },
+      {
+        "name": "server",
+        "version": "2.3.5",
+        "author": "Fika",
+        "dateAdded": 1785089932,
+        "url": "https://github.com/project-fika/Fika-Server-CSharp"
+      },
+      {
+        "name": "Dynamic Maps",
+        "version": "1.1.3",
+        "author": "mpstark",
+        "dateAdded": 1785089932
+      },
+      {
+        "name": "LootingBots-ServerMod",
+        "version": "1.7.0",
+        "author": "Skwizzy",
+        "dateAdded": 1785089932
+      },
+      {
+        "name": "SAIN",
+        "version": "4.4.3",
+        "author": "Solarint",
+        "dateAdded": 1785089932,
+        "url": "https://github.com/ArchangelWTF/SAIN"
+      },
+      {
+        "name": "SpeedLoader",
+        "version": "1.0.0",
+        "author": "MockMock",
+        "dateAdded": 1785089932
+      },
+      {
+        "name": "WTT-ContentBackport",
+        "version": "1.0.7",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1785089932
+      },
+      {
+        "name": "WTT-ServerCommonLib",
+        "version": "2.0.20",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1785089932
+      },
+      {
+        "name": "SVM",
+        "version": "2.0.2",
+        "author": "GhostFenixx",
+        "dateAdded": 1785089932,
+        "url": "https://github.com/GhostFenixx"
+      }
+    ],
+    "receivedGifts": [
+      {
+        "giftId": "MechanicGiftDay1",
+        "timestampLastAccepted": 1785089932,
+        "current": 1
+      }
+    ],
     "blacklistedItemTpls": [],
     "freeRepeatableRefreshUsedCount": {},
     "migrations": {},
