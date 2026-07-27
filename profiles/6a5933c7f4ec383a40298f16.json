@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1785114677
+        "UpdateTime": 1785115484
       },
       "Inventory": {
         "items": [
@@ -30325,31 +30325,31 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 15.0678492,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785091895,
             "Id": "Endurance",
             "Progress": 703.7879
           },
           {
-            "PointsEarnedDuringSession": 37.81758,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785092180,
             "Id": "Strength",
             "Progress": 2992.21582
           },
           {
-            "PointsEarnedDuringSession": 2.32555223,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785092042,
             "Id": "Vitality",
             "Progress": 366.4323
           },
           {
-            "PointsEarnedDuringSession": 97.77697,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785092180,
             "Id": "Health",
             "Progress": 4950.44775
           },
           {
-            "PointsEarnedDuringSession": 102.07425,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785114848,
             "Id": "StressResistance",
             "Progress": 406.3938
@@ -30361,7 +30361,7 @@
             "Progress": 5100
           },
           {
-            "PointsEarnedDuringSession": 2.39356184,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785091508,
             "Id": "Immunity",
             "Progress": 127.209328
@@ -30373,7 +30373,7 @@
             "Progress": 5100
           },
           {
-            "PointsEarnedDuringSession": 23.631177712843105,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785106858,
             "Id": "Intellect",
             "Progress": 157.7965067128431
@@ -30385,7 +30385,7 @@
             "Progress": 5100
           },
           {
-            "PointsEarnedDuringSession": 14.97772965425686,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785106806,
             "Id": "Charisma",
             "Progress": 2255.5268485542574
@@ -30409,7 +30409,7 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 5,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785092153,
             "Id": "Assault",
             "Progress": 811.8828
@@ -30451,7 +30451,7 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 1.33875012,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785092097,
             "Id": "Throwing",
             "Progress": 156.563278
@@ -30469,7 +30469,7 @@
             "Progress": 16.7625046
           },
           {
-            "PointsEarnedDuringSession": 5.59999943,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785091845,
             "Id": "AimDrills",
             "Progress": 406.0039
@@ -30487,16 +30487,16 @@
             "Progress": 5100
           },
           {
-            "PointsEarnedDuringSession": 2.38090277,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785092041,
             "Id": "CovertMovement",
             "Progress": 81.96211
           },
           {
-            "PointsEarnedDuringSession": 8.713999,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785092139,
             "Id": "Search",
-            "Progress": 1532.91345
+            "Progress": 5100
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -30523,7 +30523,7 @@
             "Progress": 47.2718277
           },
           {
-            "PointsEarnedDuringSession": 23.554568750721568,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785092517,
             "Id": "HeavyVests",
             "Progress": 188.91541846072155
@@ -30541,7 +30541,7 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 42.13512906376619,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785092443,
             "Id": "WeaponTreatment",
             "Progress": 265.2457090637662
@@ -30577,7 +30577,7 @@
             "Progress": 14.375
           },
           {
-            "PointsEarnedDuringSession": 211.5,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785114678,
             "Id": "HideoutManagement",
             "Progress": 2224.5
@@ -37909,8 +37909,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 48.7771,
-                        "UnitsConsumed": 1.2229
+                        "Value": 48.3463,
+                        "UnitsConsumed": 1.6537
                       }
                     }
                   }
@@ -38366,7 +38366,7 @@
         "HideoutCounters": null,
         "Seed": "e2d454fe22974bf4ee24d32dfe97ea12",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1785115220,
+        "sptUpdateLastRunTimestamp": 1785115846,
         "Customization": {
           "Wall": "675467d8b784110b2702fe11",
           "Floor": "675466825b7ebafefd0ebc2c",
@@ -40641,7 +40641,7 @@
         ]
       },
       "RagfairInfo": {
-        "rating": 307.8710900000001,
+        "rating": 307.87,
         "isRatingGrowing": true,
         "offers": [],
         "sellSum": 37470109,
@@ -42752,7 +42752,7 @@
         "MainProfileNickname": "RebentaOPai",
         "LowerNickname": "",
         "Side": "Savage",
-        "Level": 2,
+        "Level": 9,
         "Experience": 58850,
         "RegistrationDate": 1784918718,
         "GameVersion": "unheard_edition",
