@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1785114246
+        "UpdateTime": 1785115517
       },
       "Inventory": {
         "items": [
@@ -4300,6 +4300,25 @@
               "StackObjectsCount": 1,
               "SpawnedInSession": true
             }
+          },
+          {
+            "_id": "667298e75ea6b4493c08f266",
+            "_tpl": "66740c3739b9da6ce402ee65"
+          },
+          {
+            "_id": "6a66b37d52afb51dac5fc193",
+            "_tpl": "590c2c9c86f774245b1f03f2",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 6,
+              "y": 19,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
           }
         ],
         "equipment": "6a66ae86eb0be24414201eef",
@@ -4308,7 +4327,7 @@
         "questRaidItems": "664115f68b8ae85875060b3a",
         "questStashItems": "664115f68b8ae85875060b3b",
         "hideoutAreaStashes": {
-          "27": "66c903b7cbd137db330413a2"
+          "27": "667298e75ea6b4493c08f266"
         },
         "fastPanel": {},
         "favoriteItems": [],
@@ -4374,7 +4393,7 @@
             "PointsEarnedDuringSession": 0,
             "LastAccess": 0,
             "Id": "Perception",
-            "Progress": 0
+            "Progress": 5100
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -4383,13 +4402,13 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 300,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 0,
             "Id": "Attention",
-            "Progress": 300
+            "Progress": 5100
           },
           {
-            "PointsEarnedDuringSession": 2.2690968750000002,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785115217,
             "Id": "Charisma",
             "Progress": 302.269096875
@@ -4401,7 +4420,7 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 300,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 0,
             "Id": "Pistol",
             "Progress": 300
@@ -4431,7 +4450,7 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 300,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 0,
             "Id": "Sniper",
             "Progress": 300
@@ -4500,7 +4519,7 @@
             "PointsEarnedDuringSession": 0,
             "LastAccess": -2147483648,
             "Id": "Surgery",
-            "Progress": 0
+            "Progress": 5100
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -4512,13 +4531,13 @@
             "PointsEarnedDuringSession": 0,
             "LastAccess": 0,
             "Id": "Search",
-            "Progress": 0
+            "Progress": 5100
           },
           {
             "PointsEarnedDuringSession": 0,
             "LastAccess": -2147483648,
             "Id": "MagDrills",
-            "Progress": 0
+            "Progress": 5100
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -4587,7 +4606,7 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 300,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 0,
             "Id": "WeaponTreatment",
             "Progress": 300
@@ -4635,7 +4654,7 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 300,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 0,
             "Id": "HideoutManagement",
             "Progress": 300
@@ -5631,7 +5650,7 @@
         "HideoutCounters": null,
         "Seed": "630a9abee84260d99401e2343b95c3fe",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1785115220,
+        "sptUpdateLastRunTimestamp": 1785115846,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -5914,7 +5933,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1720457474,
+        "nextResetTime": 1720543874,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -6753,7 +6772,7 @@
   "dialogues": {
     "54cb50c76803fa8b248b4571": {
       "attachmentsNew": 0,
-      "new": 2,
+      "new": 0,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -6965,6 +6984,21 @@
             "data": []
           },
           "maxStorageTime": 259200
+        },
+        {
+          "_id": "6a66b37d52afb51dac5fc192",
+          "uid": "5a7c2eca46aef81a7ca2145d",
+          "type": 13,
+          "dt": 1785115517,
+          "templateId": "6776e324810eb26b880fb4a5 0",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "678d4d90fc70718b8c4067ad",
+            "data": []
+          },
+          "maxStorageTime": 259200
         }
       ],
       "_id": "5a7c2eca46aef81a7ca2145d"
@@ -7009,8 +7043,105 @@
   },
   "spt": {
     "version": "4.0.13 (40087)",
-    "mods": [],
-    "receivedGifts": [],
+    "mods": [
+      {
+        "name": "Acid's Bot Placement System",
+        "version": "2.0.19",
+        "author": "acidphantasm",
+        "dateAdded": 1785115517
+      },
+      {
+        "name": "Ref Friendly Quests",
+        "version": "2.0.3",
+        "author": "acidphantasm",
+        "dateAdded": 1785115517
+      },
+      {
+        "name": "Content Backport - Prestiges",
+        "version": "1.0.3",
+        "author": "ArchangelWTF",
+        "dateAdded": 1785115517,
+        "url": "https://github.com/ArchangelWTF/ContentBackportPrestiges"
+      },
+      {
+        "name": "Lots of Loot Redux",
+        "version": "4.1.2",
+        "author": "ArchangelWTF",
+        "dateAdded": 1785115517,
+        "url": "https://github.com/ArchangelWTF/LotsofLoot"
+      },
+      {
+        "name": "Show Me The Money",
+        "version": "2.7.0",
+        "author": "SwiftXP",
+        "dateAdded": 1785115517,
+        "url": "https://github.com/swiftxp-hub/spt-show-me-the-money"
+      },
+      {
+        "name": "Live Flea Prices",
+        "version": "2.0.1",
+        "author": "DrakiaXYZ",
+        "dateAdded": 1785115517
+      },
+      {
+        "name": "server",
+        "version": "2.3.5",
+        "author": "Fika",
+        "dateAdded": 1785115517,
+        "url": "https://github.com/project-fika/Fika-Server-CSharp"
+      },
+      {
+        "name": "Dynamic Maps",
+        "version": "1.1.3",
+        "author": "mpstark",
+        "dateAdded": 1785115517
+      },
+      {
+        "name": "LootingBots-ServerMod",
+        "version": "1.7.0",
+        "author": "Skwizzy",
+        "dateAdded": 1785115517
+      },
+      {
+        "name": "SAIN",
+        "version": "4.4.3",
+        "author": "Solarint",
+        "dateAdded": 1785115517,
+        "url": "https://github.com/ArchangelWTF/SAIN"
+      },
+      {
+        "name": "SpeedLoader",
+        "version": "1.0.0",
+        "author": "MockMock",
+        "dateAdded": 1785115517
+      },
+      {
+        "name": "WTT-ContentBackport",
+        "version": "1.0.7",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1785115517
+      },
+      {
+        "name": "WTT-ServerCommonLib",
+        "version": "2.0.20",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1785115517
+      },
+      {
+        "name": "SVM",
+        "version": "2.0.2",
+        "author": "GhostFenixx",
+        "dateAdded": 1785115517,
+        "url": "https://github.com/GhostFenixx"
+      }
+    ],
+    "receivedGifts": [
+      {
+        "giftId": "MechanicGiftDay1",
+        "timestampLastAccepted": 1785115517,
+        "current": 1
+      }
+    ],
     "blacklistedItemTpls": [],
     "freeRepeatableRefreshUsedCount": {},
     "migrations": {},
