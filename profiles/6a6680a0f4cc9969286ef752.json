@@ -1,0 +1,30 @@
+{
+  "info": {
+    "id": "6a6680a0f4cc9969286ef752",
+    "scavId": "6a6680a0f4cc9969286ef753",
+    "aid": 1291193,
+    "username": "Dandy",
+    "wipe": true,
+    "edition": "Unheard"
+  },
+  "characters": {
+    "pmc": {
+      "savage": null,
+      "Encyclopedia": null,
+      "Hideout": null,
+      "WishList": []
+    },
+    "scav": {
+      "savage": null,
+      "Encyclopedia": null,
+      "Hideout": null,
+      "WishList": []
+    }
+  },
+  "dialogues": {},
+  "inraid": {
+    "location": "none",
+    "character": "none"
+  },
+  "insurance": []
+}
