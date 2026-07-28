@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1784677083
+        "UpdateTime": 1785101541
       },
       "Inventory": {
         "items": [
@@ -5365,7 +5365,7 @@
         "HideoutCounters": null,
         "Seed": "c50b5915289741543ef257ba4d2b1294",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784677447,
+        "sptUpdateLastRunTimestamp": 1785101565,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -6424,11 +6424,250 @@
     "equipmentBuilds": [],
     "magazineBuilds": []
   },
-  "dialogues": {},
+  "dialogues": {
+    "54cb50c76803fa8b248b4571": {
+      "attachmentsNew": 2,
+      "new": 2,
+      "type": 2,
+      "pinned": false,
+      "messages": [
+        {
+          "_id": "6a667ce54c43459a70966eb9",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 13,
+          "dt": 1785101541,
+          "templateId": "5fd4c8b59e4b2a58b34bbd28 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "64b996c9d0de4697180359b6",
+            "data": [
+              {
+                "_id": "6a667ce54c43459a70966eba",
+                "_tpl": "544fb45d4bdc2dee738b4568",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6a667ce54c43459a70966ebb",
+                "_tpl": "5d02778e86f774203e7dedbe",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6a667ce54c43459a70966ebc",
+                "_tpl": "6034d0230ca681766b6a0fb5",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 172800
+        },
+        {
+          "_id": "6a667ce54c43459a70966ebd",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 13,
+          "dt": 1785101541,
+          "templateId": "5fd4c8d49e4b2a58b34bbd29 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "64b996c9d0de4697180359b6",
+            "data": [
+              {
+                "_id": "6a667ce54c43459a70966ebe",
+                "_tpl": "5751a25924597722c463c472",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6a667ce54c43459a70966ebf",
+                "_tpl": "5751a25924597722c463c472",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6a667ce54c43459a70966ec0",
+                "_tpl": "5ca20d5986f774331e7c9602",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6a667ce54c43459a70966ec1",
+                "_tpl": "5755356824597772cb798962",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6a667ce54c43459a70966ec2",
+                "_tpl": "5755356824597772cb798962",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              },
+              {
+                "_id": "6a667ce54c43459a70966ec3",
+                "_tpl": "5755356824597772cb798962",
+                "parentId": "64b996c9d0de4697180359b6",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 172800
+        }
+      ],
+      "_id": "54cb50c76803fa8b248b4571"
+    },
+    "5a7c2eca46aef81a7ca2145d": {
+      "attachmentsNew": 1,
+      "new": 1,
+      "type": 2,
+      "pinned": false,
+      "messages": [
+        {
+          "_id": "6a667ce54c43459a70966ec4",
+          "uid": "5a7c2eca46aef81a7ca2145d",
+          "type": 13,
+          "dt": 1785101541,
+          "templateId": "6776e324810eb26b880fb4a5 0",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "678d4d90fc70718b8c4067ad",
+            "data": [
+              {
+                "_id": "6a667ce54c43459a70966ec5",
+                "_tpl": "590c2c9c86f774245b1f03f2",
+                "parentId": "678d4d90fc70718b8c4067ad",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 259200
+        }
+      ],
+      "_id": "5a7c2eca46aef81a7ca2145d"
+    }
+  },
   "spt": {
     "version": "4.0.13 (40087)",
-    "mods": [],
-    "receivedGifts": [],
+    "mods": [
+      {
+        "name": "Acid's Bot Placement System",
+        "version": "2.0.19",
+        "author": "acidphantasm",
+        "dateAdded": 1785101541
+      },
+      {
+        "name": "Ref Friendly Quests",
+        "version": "2.0.3",
+        "author": "acidphantasm",
+        "dateAdded": 1785101541
+      },
+      {
+        "name": "Lots of Loot Redux",
+        "version": "4.1.2",
+        "author": "ArchangelWTF",
+        "dateAdded": 1785101541,
+        "url": "https://github.com/ArchangelWTF/LotsofLoot"
+      },
+      {
+        "name": "Show Me The Money",
+        "version": "2.7.0",
+        "author": "SwiftXP",
+        "dateAdded": 1785101541,
+        "url": "https://github.com/swiftxp-hub/spt-show-me-the-money"
+      },
+      {
+        "name": "Live Flea Prices",
+        "version": "2.0.1",
+        "author": "DrakiaXYZ",
+        "dateAdded": 1785101541
+      },
+      {
+        "name": "server",
+        "version": "2.3.5",
+        "author": "Fika",
+        "dateAdded": 1785101541,
+        "url": "https://github.com/project-fika/Fika-Server-CSharp"
+      },
+      {
+        "name": "LootingBots-ServerMod",
+        "version": "1.7.0",
+        "author": "Skwizzy",
+        "dateAdded": 1785101541
+      },
+      {
+        "name": "WTT-ContentBackport",
+        "version": "1.0.7",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1785101541
+      },
+      {
+        "name": "WTT-ServerCommonLib",
+        "version": "2.0.20",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1785101541
+      },
+      {
+        "name": "SVM",
+        "version": "2.1.2",
+        "author": "GhostFenixx",
+        "dateAdded": 1785101541,
+        "url": "https://github.com/GhostFenixx"
+      }
+    ],
+    "receivedGifts": [
+      {
+        "giftId": "PraporGiftDay1",
+        "timestampLastAccepted": 1785101541,
+        "current": 1
+      },
+      {
+        "giftId": "PraporGiftDay2",
+        "timestampLastAccepted": 1785101541,
+        "current": 1
+      },
+      {
+        "giftId": "MechanicGiftDay1",
+        "timestampLastAccepted": 1785101541,
+        "current": 1
+      }
+    ],
     "blacklistedItemTpls": [],
     "freeRepeatableRefreshUsedCount": {},
     "migrations": {},
